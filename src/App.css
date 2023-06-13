@@ -21,7 +21,7 @@
 
 .main:after {
   content: "";
-  background-color: rgb(186, 233, 248);
+  background-color: rgb(213, 230, 245);
   z-index: 1;
   position: absolute;
   width: 100%;
