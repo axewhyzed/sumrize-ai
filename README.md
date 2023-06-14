@@ -2,7 +2,7 @@
 
 Sumrize AI is an AI-powered article summarizing application built with React and Redux Toolkit. It allows users to paste article links and generate summaries of those articles. The application utilizes the RapidAPI service for extracting and summarizing articles.
 
-![Sumrize AI Screenshot](./images/screenshot.png)
+![Sumrize AI Screenshot](images/screenshot.png)
 
 ## Features
 
